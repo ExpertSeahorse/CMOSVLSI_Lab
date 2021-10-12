@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      dfeldman1
 HostName                       sclogin2.rc.usf.edu
-ProcessIdentifier              81144
-ProcessCreationTime_UTC        1634058240
-ProcessCreationTime_Readable   Tue Oct 12 13:04:00 2021 EDT
+ProcessIdentifier              13301
+ProcessCreationTime_UTC        1634063968
+ProcessCreationTime_Readable   Tue Oct 12 14:39:28 2021 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/d/dfeldman1/cmosvlsi/cmosvlsi/DLatch/layout/layout.oa.cdslck
-TimeEditLocked                 Tue Oct 12 13:07:08 2021 EDT
+FilePathUsedToEditLock         /home/d/dfeldman1/cmosvlsi/cmosvlsi/DLatch/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Tue Oct 12 14:40:57 2021 EDT
