@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      lokambika
+HostName                       sclogin0.rc.usf.edu
+ProcessIdentifier              47463
+ProcessCreationTime_UTC        1634474390
+ProcessCreationTime_Readable   Sun Oct 17 08:39:50 2021 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/l/lokambika/cmosvlsi/Lab5/DLatch/layout/layout.oa.cdslck
+TimeEditLocked                 Sun Oct 17 09:38:18 2021 EDT
