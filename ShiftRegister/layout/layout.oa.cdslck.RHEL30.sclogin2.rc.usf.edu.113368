@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Oct 17 13:01:53 2021 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/d/dfeldman1/cmosvlsi/cmosvlsi/DFlipFlop/layout/layout.oa.cdslck
-TimeEditLocked                 Sun Oct 17 14:44:36 2021 EDT
+FilePathUsedToEditLock         /home/d/dfeldman1/cmosvlsi/cmosvlsi/ShiftRegister/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Sun Oct 17 14:20:12 2021 EDT
